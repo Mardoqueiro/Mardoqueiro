@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @Mardoqueiro
 - 👀 I’m interested in anime
-- 🌱 I’m currently learning JavaScript
+- 🌱 I’m currently learning web development
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me IG @mumbo.dumb0
-- 😄 Pronouns: he because I can never be him
+- 📫 How to reach me LinkedIn
+- 😄 Pronouns: he/him
 - ⚡ Fun fact: ...
 
 <!---
