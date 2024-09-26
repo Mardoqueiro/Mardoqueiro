@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m @Mardoqueiro<br>👀 I’m interested in anime<br>🌱 I’m currently an intern at Life Choices Studio<br>💞️ I’m looking to collaborate on ...<br>📫 How to reach me LinkedIn<br>😄 Pronouns: he/him<br>⚡ Fun fact: ...
+👋 Hi, I’m @Mardoqueiro<br>👀 I’m interested in anime<br>🌱 I’m currently an intern at LC Studio<br>💞️ I’m looking to collaborate on ...<br>📫 How to reach me LinkedIn<br>😄 Pronouns: he/him<br>⚡ Fun fact: ...
 
 
 ## 🌐 Socials:
