@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m @Mardoqueiro Dimbu<br>👀 I am interested in technology and anime.  <br>Right now, I work as an intern at **Solar MD.**  <br>💞️ Collaboration on interesting software development projects is what I am looking for. <br>😄 Pronouns: he/him  <br>⚡ Fun fact:... <br>
+👋 Hi, I’m @Mardoqueiro Dimbu<br>👀 I am interested in technology and anime.  <br>  <br>💞️ Collaboration on interesting software development projects is what I am looking for. <br>😄 Pronouns: he/him  <br>⚡ Fun fact:... <br>
 
 
 ## 🌐 Socials:
